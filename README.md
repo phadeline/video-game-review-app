@@ -54,7 +54,7 @@ http://localhost:3001
     
 ## Website  
 
-[Link to the website](https://safe-eyrie-62856.herokuapp.com/login)
+[Link to the website](https://video-game-reviewer-test.herokuapp.com/login)
 
 ## Presentation
 [Link to presenation](https://docs.google.com/presentation/d/1tYqmVuhQ94IKvixlw7p23zWb6ti1AvtPX-Ex9ajIEjs/edit#slide=id.g2038c71a101_0_15)
